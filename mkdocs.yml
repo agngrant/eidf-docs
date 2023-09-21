@@ -61,7 +61,7 @@ nav:
       - "Get Access": services/ultra2/access.md
       - "Running codes": services/ultra2/run.md
     - "GPU Service":
-      - "Overview": services/gpuservice/index.md
+      - "Overview of GPU Service": services/gpuservice/index.md
       - "Policies": services/gpuservice/policies.md
       - "Tutorial":
          - "Getting Started": services/gpuservice/training/L1_getting_started.md
