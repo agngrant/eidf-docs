@@ -74,6 +74,8 @@ nav:
     - "Notebooks":
       - "Overview": services/jhub/index.md
       - "Quickstart": services/jhub/quickstart.md
+    - "Image Registry":
+      - "Overview": services/registry/index.md
   - "Data Services":
     - "S3":
       - "Overview": services/s3/index.md
